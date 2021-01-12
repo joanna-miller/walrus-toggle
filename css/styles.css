@@ -37,6 +37,35 @@ img {
   width: 200px;
 }
 
+.extra-walrus {
+  margin-top: 50px;
+}
+
+.invert-background {
+  background-color: black;
+  color: white;
+}
+
+.revert-background {
+  background-color: white;
+  color: black;
+}
+
+.button-grid {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
 body {
   text-align: center;
+}
+
+.btn-primary {
+  background-color: black;
+  border-color: white;
+}
+
+.btn-default {
+  background-color: white;
+  border-color: black;
 }
