@@ -1,7 +1,16 @@
-.walrus-showing {
+#walrus-showing {
   display: none;
 }
 
 img {
   width: 700px;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
 }
