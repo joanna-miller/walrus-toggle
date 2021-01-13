@@ -22,7 +22,7 @@ _A page that can toggle walrus pictures with the click of a button (or two)!_
 
 #### OR
 
-* _[Click Here!](joanna-miller.github.io/walrus-toggle)_
+* _[Click Here!](https://joanna-miller.github.io/walrus-toggle)_
 
 ## License
 
